@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "name": "Ardbeg 10 Year",
+    "age": 10,
+    "notes": ["smoke", "peat", "fire", "chocolate"],
+    "alcoholPercentage": 46,
+    "category": "Single Malt",
+    "region": "Islay",
+    "country": "Scotland"
+  },
+  {
+    "id": "2",
+    "name": "Kilchoman Machir Bay",
+    "notes": ["smoke", "peat", "fire", "chocolate"],
+    "alcoholPercentage": 46,
+    "category": "Single Malt",
+    "region": "Islay",
+    "country": "Scotland"
+  },
+  {
+    "id": "3",
+    "name": "Auchentoshan Three Wood",
+    "notes": ["raisin", "citrus peel", "walnut", "dried fruit"],
+    "alcoholPercentage": 43,
+    "category": "Single Malt",
+    "region": "Lowlands",
+    "country": "Scotland"
+  }
+]
