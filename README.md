@@ -1,6 +1,6 @@
-# Welcome to Remix!
+# My Whisky List
 
-- [Remix Docs](https://remix.run/docs)
+"My Whiskey List" is a sample application that I use to test out a new framework or technology. It is a simple CRUD application with list/detail pages and the ability to add, update and remove items - a fairly standard pattern which is repeated in a lot of client applications that I have to build.
 
 ## Deployment
 
