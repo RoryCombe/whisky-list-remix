@@ -2,6 +2,8 @@
 
 "My Whiskey List" is a sample application that I use to test out a new framework or technology. It is a simple CRUD application with list/detail pages and the ability to add, update and remove items - a fairly standard pattern which is repeated in a lot of client applications that I have to build.
 
+This version is built using [Remix](https://remix.run)
+
 ## Deployment
 
 After having run the `create-remix` command and selected "Vercel" as a deployment target, you only need to [import your Git repository](https://vercel.com/new) into Vercel, and it will be deployed.
